@@ -1,0 +1,6 @@
+Basic Ubuntu server image for CLI exploration, with:
+
+- Container minimization removed (brings back `man` pages)
+- `git`
+- `python3`
+- `vim`
